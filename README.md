@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game in Python (Terminal)
+# Tic-Tac-Toe Game in Python 
 
 ## Project Overview
 This is a simple two-player Tic-Tac-Toe game implemented in Python, playable via the terminal. The game allows players to input positions on a 3x3 grid, alternates turns between 'X' and 'O', and detects wins or draws. It also features colored terminal output for enhanced user experience.
